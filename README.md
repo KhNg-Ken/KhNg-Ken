@@ -1,16 +1,23 @@
-### Hi there 👋
+# **_Welcome_** 👋
 
-<!--
-**KhNg-Ken/KhNg-Ken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📝 I'm **Nguyễn Gia Khánh**, an aspiring student to become a Software Engineer💻. 
 
-Here are some ideas to get you started:
+🤖 My interests are software development, (computer) hardware components and video game designing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Currently, I have learning experiences in C, C++ and Java 💾. 
+
+🏃 In the near future, I'm will learn about video game development and polish my knowledge upon software engineering.
+
+## Projects in development:
+### Digital wellbeing analysis:
+
+
+## Completed projects:
+### 
+
+
+## Contacts:
+
+**Email**: kennynguyen1603@gmail.com
+
+**Discord**: BlindRacoon42#2692
