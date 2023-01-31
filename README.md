@@ -4,9 +4,9 @@
 
 🤖 My interests are software development, (computer) hardware components and video game designing.
 
-✅ Currently, I have learning experiences in C, C++ and Java 💾. 
+✅ Currently, I'm experienced with C, C++, mySQL and Java 💾. 
 
-🏃 In the near future, I'm will learn about video game development and polish my knowledge upon software engineering.
+🏃 I'm learning about video game development and polishing my knowledge upon software engineering.
 
 ## Projects in development:
 ### Digital wellbeing analysis:
